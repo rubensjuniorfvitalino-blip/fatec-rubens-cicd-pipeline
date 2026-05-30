@@ -67,4 +67,4 @@ jobs:
       - name: Deploy Simulation
         run: |
           echo "Efetuando deploy no ambiente de homologação (stage)..."
-          echo "Status: Sucesso!"
+          echo "Status: Sucesso!
